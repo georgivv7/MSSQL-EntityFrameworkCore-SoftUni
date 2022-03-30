@@ -1,0 +1,12 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.pdb

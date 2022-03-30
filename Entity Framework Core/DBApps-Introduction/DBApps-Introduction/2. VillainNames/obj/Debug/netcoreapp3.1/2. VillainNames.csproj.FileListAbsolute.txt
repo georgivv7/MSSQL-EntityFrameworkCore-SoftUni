@@ -1,0 +1,26 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\1. InitialSetup.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\1. InitialSetup.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\1. InitialSetup.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\1. InitialSetup.exe
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\2. VillainNames.exe
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\2. VillainNames.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\2. VillainNames.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\2. VillainNames.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\2. VillainNames.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\2. VillainNames.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\1. InitialSetup.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\bin\Debug\netcoreapp3.1\1. InitialSetup.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\2. VillainNames\obj\Debug\netcoreapp3.1\2. VillainNames.genruntimeconfig.cache

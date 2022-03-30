@@ -1,0 +1,12 @@
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\Exams\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache

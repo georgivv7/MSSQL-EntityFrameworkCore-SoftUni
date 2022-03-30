@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWaPOypS37fY6u5acRlsRSfLf6DojwC3Ucfp744OhSO3y19Y4cfNLC7+GuFtmgDheR3qBRCSqsbtpgqS7rYRVQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\ExamPreps\\Instagraph\\Instagraph.Models\\Instagraph.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

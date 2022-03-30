@@ -1,0 +1,9 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AdvancedRelationsAndAggregation\AdvancedRelations-Exercise\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_BillsPaymentSystem.Data.Models.pdb

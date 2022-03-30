@@ -1,0 +1,17 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.genruntimeconfig.cache

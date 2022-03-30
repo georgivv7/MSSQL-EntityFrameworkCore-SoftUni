@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.App\\Stations.App.csproj": {}
+  },
+  "projects": {
+    "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.App\\Stations.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.App\\Stations.App.csproj",
+        "projectName": "Stations.App",
+        "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.App\\Stations.App.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.DataProcessor\\Stations.DataProcessor.csproj": {
+                "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.DataProcessor\\Stations.DataProcessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Automapper": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.DataProcessor\\Stations.DataProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.DataProcessor\\Stations.DataProcessor.csproj",
+        "projectName": "Stations.DataProcessor",
+        "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.DataProcessor\\Stations.DataProcessor.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.DataProcessor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Data\\Stations.Data.csproj": {
+                "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Data\\Stations.Data.csproj"
+              },
+              "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj": {
+                "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Data\\Stations.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Data\\Stations.Data.csproj",
+        "projectName": "Stations.Data",
+        "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Data\\Stations.Data.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj": {
+                "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj",
+        "projectName": "Stations.Models",
+        "projectPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\Stations.Models.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-SoftUni\\C# DATABASES ADVANCED  - Entity Framework\\Exams\\Stations\\Stations.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

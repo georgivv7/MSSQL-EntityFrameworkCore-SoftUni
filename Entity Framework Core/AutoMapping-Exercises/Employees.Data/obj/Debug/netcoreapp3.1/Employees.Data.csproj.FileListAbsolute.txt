@@ -1,0 +1,15 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Data.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Data.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Data.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Data\obj\Debug\netcoreapp3.1\Employees.Data.genruntimeconfig.cache

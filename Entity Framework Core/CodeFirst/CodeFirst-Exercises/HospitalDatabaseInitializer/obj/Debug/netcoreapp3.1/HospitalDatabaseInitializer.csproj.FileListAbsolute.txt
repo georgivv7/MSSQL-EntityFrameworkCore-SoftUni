@@ -1,0 +1,12 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp3.1\HospitalDatabaseInitializer.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp3.1\HospitalDatabaseInitializer.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp3.1\HospitalDatabaseInitializer.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp3.1\P01_HospitalDatabase.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp3.1\P01_HospitalDatabase.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp3.1\HospitalDatabaseInitializer.pdb

@@ -1,0 +1,14 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExamPrep - Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb

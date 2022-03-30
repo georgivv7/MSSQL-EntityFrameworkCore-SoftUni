@@ -1,0 +1,12 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\bin\Debug\netcoreapp3.1\ProductsShop.Data.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\bin\Debug\netcoreapp3.1\ProductsShop.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\bin\Debug\netcoreapp3.1\ProductsShop.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\bin\Debug\netcoreapp3.1\ProductsShop.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\bin\Debug\netcoreapp3.1\ProductsShop.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Data\obj\Debug\netcoreapp3.1\ProductsShop.Data.pdb

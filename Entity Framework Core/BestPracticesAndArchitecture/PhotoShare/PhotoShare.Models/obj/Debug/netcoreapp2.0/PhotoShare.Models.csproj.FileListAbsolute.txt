@@ -1,0 +1,9 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb

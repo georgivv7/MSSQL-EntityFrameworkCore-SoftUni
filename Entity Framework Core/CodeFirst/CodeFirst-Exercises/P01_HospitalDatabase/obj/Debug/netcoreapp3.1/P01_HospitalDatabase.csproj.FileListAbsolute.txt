@@ -1,0 +1,9 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\P01_HospitalDatabase.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\P01_HospitalDatabase.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\P01_HospitalDatabase.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\CodeFirst\CodeFirst-Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.pdb

@@ -1,0 +1,8 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\bin\Debug\netcoreapp3.1\ProductsShop.Models.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\bin\Debug\netcoreapp3.1\ProductsShop.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\bin\Debug\netcoreapp3.1\ProductsShop.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\obj\Debug\netcoreapp3.1\ProductsShop.Models.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\obj\Debug\netcoreapp3.1\ProductsShop.Models.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\obj\Debug\netcoreapp3.1\ProductsShop.Models.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\obj\Debug\netcoreapp3.1\ProductsShop.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\ExternalFormatProcessing\ExternalFormatProcessing\ProductsShop.Models\obj\Debug\netcoreapp3.1\ProductsShop.Models.pdb

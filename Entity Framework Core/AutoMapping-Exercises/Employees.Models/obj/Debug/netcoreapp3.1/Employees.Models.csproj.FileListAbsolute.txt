@@ -1,0 +1,9 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\bin\Debug\netcoreapp3.1\Employees.Models.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\bin\Debug\netcoreapp3.1\Employees.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Models\obj\Debug\netcoreapp3.1\Employees.Models.pdb

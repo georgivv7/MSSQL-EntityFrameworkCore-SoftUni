@@ -1,0 +1,16 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Services.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Services.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Services.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Data.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.DtoModels.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Data.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.DtoModels.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\AutoMapping-Exercises\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.pdb

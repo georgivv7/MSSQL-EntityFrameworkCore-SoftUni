@@ -1,0 +1,14 @@
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.deps.json
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csprojAssemblyReference.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfoInputs.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfo.cs
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CoreCompileInputs.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CopyComplete
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.pdb

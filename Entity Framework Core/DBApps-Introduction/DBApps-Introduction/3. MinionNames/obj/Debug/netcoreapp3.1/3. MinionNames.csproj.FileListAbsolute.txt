@@ -1,0 +1,26 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\1. InitialSetup.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\1. InitialSetup.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\1. InitialSetup.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\1. InitialSetup.exe
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\3. MinionNames.exe
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\3. MinionNames.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\3. MinionNames.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\3. MinionNames.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\3. MinionNames.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\3. MinionNames.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\1. InitialSetup.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\bin\Debug\netcoreapp3.1\1. InitialSetup.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\3. MinionNames\obj\Debug\netcoreapp3.1\3. MinionNames.genruntimeconfig.cache

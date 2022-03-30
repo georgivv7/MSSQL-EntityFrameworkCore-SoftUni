@@ -1,0 +1,20 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\1. InitialSetup.exe
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\1. InitialSetup.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\1. InitialSetup.runtimeconfig.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\1. InitialSetup.runtimeconfig.dev.json
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\1. InitialSetup.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\1. InitialSetup.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.csproj.CopyComplete
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\DBApps-Introduction\DBApps-Introduction\1. InitialSetup\obj\Debug\netcoreapp3.1\1. InitialSetup.genruntimeconfig.cache

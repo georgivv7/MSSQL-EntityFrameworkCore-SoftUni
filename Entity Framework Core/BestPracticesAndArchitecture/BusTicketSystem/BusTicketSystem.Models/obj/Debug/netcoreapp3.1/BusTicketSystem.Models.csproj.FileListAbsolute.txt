@@ -1,0 +1,9 @@
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\bin\Debug\netcoreapp3.1\BusTicketSystem.Models.deps.json
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\bin\Debug\netcoreapp3.1\BusTicketSystem.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\bin\Debug\netcoreapp3.1\BusTicketSystem.Models.pdb
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\obj\Debug\netcoreapp3.1\BusTicketSystem.Models.csprojAssemblyReference.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\obj\Debug\netcoreapp3.1\BusTicketSystem.Models.AssemblyInfoInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\obj\Debug\netcoreapp3.1\BusTicketSystem.Models.AssemblyInfo.cs
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\obj\Debug\netcoreapp3.1\BusTicketSystem.Models.csproj.CoreCompileInputs.cache
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\obj\Debug\netcoreapp3.1\BusTicketSystem.Models.dll
+D:\C# DATABASES ADVANCED  - Entity Framework\BestPracticesAndArchitecture\BusTicketSystem\BusTicketSystem.Models\obj\Debug\netcoreapp3.1\BusTicketSystem.Models.pdb

@@ -1,0 +1,12 @@
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.deps.json
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Models.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csprojAssemblyReference.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.AssemblyInfoInputs.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.AssemblyInfo.cs
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csproj.CoreCompileInputs.cache
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csproj.CopyComplete
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.dll
+D:\C#-SoftUni\C# DATABASES ADVANCED  - Entity Framework\ExamPreps\Stations\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.pdb
